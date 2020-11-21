@@ -1,1 +1,1 @@
-# eBand
+# CWT-eBand
